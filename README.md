@@ -27,7 +27,7 @@ Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba co
   <img src="https://skillicons.dev/icons?i=bash,cypress,debian,discord,docker,git,github,gitlab,grafana,jenkins,latex,linux,md,ps,rabbitmq,selenium&perline=14" />
 </a>
  
-📈 **Mis estadísticas de GitHub:**
+----
 
 <p>
   <img height="150em" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shift3385&layout=compact&langs_count=8"/>
