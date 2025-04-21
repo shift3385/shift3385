@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hola, soy <a href="https://www.linkedin.com/in/liomarrg/" target="_blank">Liomar</a> 👋
 
-<!--
-**shift3385/shift3385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile views](https://komarev.com/ghpvc/?username=javicaib&style=flat-square)](https://github.com/shift3385)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liomarrg/)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/javicaib) -->
 
-Here are some ideas to get you started:
+### Encantado de verte aquí!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba como arquitecto de software en el Centro de Gesti&oacute;n de Informatizaci&oacute;n de la Gesti&oacute;n Documental. 
+
+<h2> Frontend Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react&perline=14" /> </a>
+<h2> Backend Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,postgres&perline=14" /> </a>
+<h2> Otras Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,grafana,linux,rabbitmq&perline=14" /> </a>
+ 
+📈 **Mis estadísticas de GitHub:**
+
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shift3385&hide_progress=true&hide=css,html"/>
+</p>
