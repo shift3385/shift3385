@@ -29,6 +29,13 @@ Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba co
  
 📈 **Mis estadísticas de GitHub:**
 
-<p>
-  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shift3385"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shift3385&layout=compact&langs_count=8" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shift3385&layout=compact&langs_count=8" />
+    </td>
+  </tr>
+</table>
