@@ -24,7 +24,7 @@ Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba co
 
 <h2>Herramientas & DevOps </h2>
 <a href="https://github.com/shift3385">
-  <img src="https://skillicons.dev/icons?i=bash,cypress,debian,discord,docker,git,github,gitlab,grafana,jenkins,latex,linux,md,ps,rabbitmq,selenium&perline=14" />
+  <img src="https://skillicons.dev/icons?i=bash,cypress,debian,discord,docker,git,github,gitlab,jenkins,linux,md,ps,selenium&perline=14" />
 </a>
  
 ----
