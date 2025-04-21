@@ -7,22 +7,22 @@
 ### Encantado de verte aquí!
 
 Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba como arquitecto de software en el Centro de Gesti&oacute;n de Informatizaci&oacute;n de la Gesti&oacute;n Documental. 
-<h2>Lenguajes <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" /></h2>
+<h2>Lenguajes </h2>
 <a href="https://github.com/shift3385">
   <img src="https://skillicons.dev/icons?i=css,html,js,ts,dart,java,py&perline=14" />
 </a>
 
-<h2>Frameworks & Librerías <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" /></h2>
+<h2>Frameworks & Librerías </h2>
 <a href="https://github.com/shift3385">
   <img src="https://skillicons.dev/icons?i=bootstrap,react,flutter,django,fastapi,flask,express&perline=14" />
 </a>
 
-<h2>Bases de Datos <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" /></h2>
+<h2>Bases de Datos </h2>
 <a href="https://github.com/shift3385">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=14" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=14" />
 </a>
 
-<h2>Herramientas & DevOps <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" /></h2>
+<h2>Herramientas & DevOps </h2>
 <a href="https://github.com/shift3385">
   <img src="https://skillicons.dev/icons?i=bash,cypress,debian,discord,docker,git,github,gitlab,grafana,jenkins,latex,linux,md,ps,rabbitmq,selenium&perline=14" />
 </a>
