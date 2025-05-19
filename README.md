@@ -14,7 +14,7 @@ Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba co
 
 <h2>Frameworks & Librerías </h2>
 <a href="https://github.com/shift3385">
-  <img src="https://skillicons.dev/icons?i=bootstrap,react,flutter,django,fastapi,flask,express&perline=14" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,angular,flutter,django,fastapi,flask,express&perline=14" />
 </a>
 
 <h2>Bases de Datos </h2>
