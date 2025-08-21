@@ -9,12 +9,12 @@
 Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba como arquitecto de software en el Centro de Gesti&oacute;n de Informatizaci&oacute;n de la Gesti&oacute;n Documental. 
 <h2>Lenguajes </h2>
 <a href="https://github.com/shift3385">
-  <img src="https://skillicons.dev/icons?i=css,html,js,ts,dart,java,py&perline=14" />
+  <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,py&perline=14" />
 </a>
 
 <h2>Frameworks & Librerías </h2>
 <a href="https://github.com/shift3385">
-  <img src="https://skillicons.dev/icons?i=bootstrap,angular,flutter,django,fastapi,flask,express&perline=14" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,angular,django,fastapi,flask,express&perline=14" />
 </a>
 
 <h2>Bases de Datos </h2>
