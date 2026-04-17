@@ -14,7 +14,7 @@ Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba co
 
 <h2>Frameworks & Librerías </h2>
 <a href="https://github.com/shift3385">
-  <img src="https://skillicons.dev/icons?i=bootstrap,angular,django,fastapi,flask,express&perline=14" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,angular,django,fastapi,flask,nestjs&perline=14" />
 </a>
 
 <h2>Bases de Datos </h2>
@@ -24,9 +24,20 @@ Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba co
 
 <h2>Herramientas & DevOps </h2>
 <a href="https://github.com/shift3385">
-  <img src="https://skillicons.dev/icons?i=bash,cypress,debian,discord,docker,git,github,gitlab,jenkins,linux,md,ps,selenium&perline=14" />
+  <img src="https://skillicons.dev/icons?i=bash,cypress,debian,discord,docker,git,github,gitlab,jenkins,linux,md,ps,&perline=14" />
 </a>
- 
+
+<h2>IDES</h2>
+<a href="https://github.com/shift3385">
+  <img src="https://skillicons.dev/icons?i=idea,vscode&perline=14" />
+</a>
+
+<h2>QA</h2>
+<a href="https://github.com/shift3385">
+  <img src="https://skillicons.dev/icons?i=selenium&perline=14" />
+  <img src="https://github.com/microsoft/playwright.dev/blob/main/static/img/playwright-logo.svg" height="50" width="50" style="background-color: #1d2021; border-radius: 10px; padding: 5px;" />
+</a>
+
 ----
 
 <p>
