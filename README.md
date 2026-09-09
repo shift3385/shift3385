@@ -4,12 +4,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liomarrg/)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/javicaib) -->
 
-### Encantado de verte aquí!
+Hola, soy Liomar 👋
 
-Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba
-Especialista Principal, Desarrollador de Software y QA en el Centro de Informatización de la Gestión Documental (UCI), trabajando sobre eXcriba — gestor documental conforme a ISO 15489, ISAD(G) y MoReq.
-Actualmente construyendo Pharos, suite de gestión de pruebas (ISO 29119, ISTQB CTFL) para mi proyecto personal
+Especialista Principal, Desarrollador de Software y QA en el Centro de Informatización
+de la Gestión Documental de la Universidad de las Ciencias Informáticas (UCI). Trabajo
+sobre eXcriba, un gestor documental conforme a ISO 15489, ISAD(G) y MoReq.
 
+En paralelo construyo Pharos, una suite de gestión de planes y casos de prueba alineada
+a ISO/IEC/IEEE 29119 e ISTQB CTFL v4.0.1.
 <h2>Lenguajes </h2>
 <a href="https://github.com/shift3385">
   <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,py&perline=14" />
