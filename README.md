@@ -4,26 +4,26 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liomarrg/)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/javicaib) -->
 
-Hola, soy Liomar 👋
+Hola, soy Liomar 👋  
 
-QA Automation con Playwright y Python. Nueve años en el Centro de Informatización de la Gestión Documental de la UCI, sobre eXcriba (Alfresco ECM, conforme a ISO 15489, ISAD(G) y MoReq).
+QA Automation con Playwright y Python. Nueve años en el Centro de Informatización de la Gestión Documental de la UCI, sobre eXcriba (Alfresco ECM, conforme a ISO 15489, ISAD(G) y MoReq).  
  
-Lo que hago:
- — Automatización de pruebas con Playwright, Selenium y Pytest.
- — Ciclo de pruebas bajo AUP o SCRUM: plan de pruebas, casos de prueba y matriz de trazabilidad, etc.
- — Desarrollo backend: +100 servicios web sobre la API de Alfresco, en JavaScript.
- — Soporte a 9 organizaciones con el sistema en producción.
- — Definición de línea base y criterios de calidad, dentro de la comisión del proyecto.
+Lo que hago:  
+ — Automatización de pruebas con Playwright, Selenium y Pytest.  
+ — Ciclo de pruebas bajo AUP o SCRUM: plan de pruebas, casos de prueba y matriz de trazabilidad, etc.  
+ — Desarrollo backend: +100 servicios web sobre la API de Alfresco, en JavaScript.  
+ — Soporte a 9 organizaciones con el sistema en producción.  
+ — Definición de línea base y criterios de calidad, dentro de la comisión del proyecto.  
  
-Aparte del trabajo:
- — Negocio propio de gestión y reservaciones. Flujos en Python, n8n, +3000 gestiones facturadas desde 2024.
- — Pharos: aplicación de escritorio para planes y casos de prueba, alineada a ISO/IEC/IEEE 29119, ISO/IEC 25010 e ISTQB CTFL v4.0.1. github.com/shift3385/Pharos
+Aparte del trabajo:  
+ — Negocio propio de gestión y reservaciones. Flujos en Python, n8n, +3000 gestiones facturadas desde 2024.  
+ — Pharos: aplicación de escritorio para planes y casos de prueba, alineada a ISO/IEC/IEEE 29119, ISO/IEC 25010 e ISTQB CTFL v4.0.1. github.com/shift3385/Pharos  
  
-Premio del Rector de la UCI 2020, mayor aporte en actividades de soporte al desarrollo.
- Estudiando el syllabus ISTQB CTFL v4.0.1.
- Inglés: lectura técnica avanzada, conversación intermedia.
+Premio del Rector de la UCI 2020, mayor aporte en actividades de soporte al desarrollo.  
+ Estudiando el syllabus ISTQB CTFL v4.0.1.  
+ Inglés: lectura técnica avanzada, conversación intermedia.  
  
-Playwright · Python · JavaScript · Selenium · Pytest · Postman · Docker · PostgreSQL · CI/CD · Alfresco ECM
+Playwright · Python · JavaScript · Selenium · Pytest · Postman · Docker · PostgreSQL · CI/CD · Alfresco ECM  
 <h2>Lenguajes </h2>
 <a href="https://github.com/shift3385">
   <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,py&perline=14" />
