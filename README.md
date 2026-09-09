@@ -6,7 +6,10 @@
 
 ### Encantado de verte aquí!
 
-Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba como arquitecto de software en el Centro de Gesti&oacute;n de Informatizaci&oacute;n de la Gesti&oacute;n Documental. 
+Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba
+Especialista Principal, Desarrollador de Software y QA en el Centro de Informatización de la Gestión Documental (UCI), trabajando sobre eXcriba — gestor documental conforme a ISO 15489, ISAD(G) y MoReq.
+Actualmente construyendo Pharos, suite de gestión de pruebas (ISO 29119, ISTQB CTFL) para mi proyecto personal
+
 <h2>Lenguajes </h2>
 <a href="https://github.com/shift3385">
   <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,py&perline=14" />
