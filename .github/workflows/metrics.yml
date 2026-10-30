@@ -22,9 +22,7 @@ jobs:
           base: "header, activity, community, repositories, metadata"
           plugin_languages: "yes"
           plugin_languages_analysis_timeout: 15
-          plugin_habits: "yes"
           config_timezone: America/Havana
-
   dark:
     runs-on: ubuntu-latest
     permissions:
@@ -39,6 +37,5 @@ jobs:
           base: "header, activity, community, repositories, metadata"
           plugin_languages: "yes"
           plugin_languages_analysis_timeout: 15
-          plugin_habits: "yes"
-          config_timezone: America/Havana
+         config_timezone: America/Havana
           config_theme: github-dark
