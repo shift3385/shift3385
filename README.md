@@ -25,6 +25,14 @@ Premio del Rector de la UCI 2020, mayor aporte en actividades de soporte al desa
  
 Playwright · Python · JavaScript · Selenium · Pytest · Postman · Docker · PostgreSQL · CI/CD · Alfresco ECM  
 
+## Estadísticas de GitHub
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./profile-stats/metrics.dark.svg" />
+<img alt="Estadísticas de GitHub" src="./profile-stats/metrics.svg" width="100%" />
+</picture>
+
+
 ## Proyectos destacados
 
 ### Pharos
