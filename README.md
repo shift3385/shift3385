@@ -24,6 +24,23 @@ Premio del Rector de la UCI 2020, mayor aporte en actividades de soporte al desa
  Inglés: lectura técnica avanzada, conversación intermedia.  
  
 Playwright · Python · JavaScript · Selenium · Pytest · Postman · Docker · PostgreSQL · CI/CD · Alfresco ECM  
+
+## Proyectos destacados
+
+### Pharos
+El faro que guía tus proyectos de pruebas a puerto seguro.
+
+![Pharos](images/pharos.png)
+
+[Ver repositorio](https://github.com/shift3385/Pharos)
+
+### Habla
+Profesor de inglés por voz con IA para Android. Conversaciones sobre temas reales, corrección al momento, métricas de fluidez y progreso. React + Capacitor + Gemini.
+
+![Habla](images/habla.png)
+
+[Ver repositorio](https://github.com/shift3385/Habla)
+
 <h2>Lenguajes </h2>
 <a href="https://github.com/shift3385">
   <img src="https://skillicons.dev/icons?i=css,html,js,ts,java,py&perline=14" />
