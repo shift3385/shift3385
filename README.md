@@ -1,8 +1,8 @@
 ### Hola, soy <a href="https://www.linkedin.com/in/liomarrg/" target="_blank">Liomar</a> 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=javicaib&style=flat-square)](https://github.com/shift3385)
+[![Profile views](https://komarev.com/ghpvc/?username=shift3385&style=flat-square)](https://github.com/shift3385)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liomarrg/)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/javicaib) -->
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shift3385) -->
 
 Hola, soy Liomar 👋  
 
